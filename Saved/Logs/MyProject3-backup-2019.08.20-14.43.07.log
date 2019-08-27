@@ -1,0 +1,1185 @@
+﻿Log file open, 08/20/19 14:35:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject3
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1018569893) SRandInit(1018569893).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.280321
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.971s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-NK6UODR (172.24.235.191:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal  -epicusername="CooperJo34" -epicuserid=790c354293504f0da6ed5742c017ffdb -epiclocale=en-US
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.08.20-05.35.33:869][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.20-05.35.33:869][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.20-05.35.33:884][  0]LogInit: Computer: DESKTOP-NK6UODR
+[2019.08.20-05.35.33:884][  0]LogInit: User: vclab
+[2019.08.20-05.35.33:884][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.20-05.35.33:884][  0]LogInit: High frequency timer resolution =2.742192 MHz
+[2019.08.20-05.35.33:884][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.08.20-05.35.33:884][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.20-05.35.33:884][  0]LogMemory: Process Physical Memory: 275.28 MB used, 275.28 MB peak
+[2019.08.20-05.35.33:884][  0]LogMemory: Process Virtual Memory: 264.71 MB used, 264.71 MB peak
+[2019.08.20-05.35.33:884][  0]LogMemory: Physical Memory: 6961.43 MB used,  9375.79 MB free, 16337.21 MB total
+[2019.08.20-05.35.33:884][  0]LogMemory: Virtual Memory: 4795.76 MB used,  9375.79 MB free, 134217728.00 MB total
+[2019.08.20-05.35.34:463][  0]LogInit: Using OS detected language (en-US).
+[2019.08.20-05.35.34:463][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.20-05.35.34:466][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.20-05.35.34:965][  0]LogStreaming: Display: Took  0.503s to EndInitTextLocalization.
+[2019.08.20-05.35.34:966][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.20-05.35.35:004][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.20-05.35.35:004][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.20-05.35.35:208][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.20-05.35.35:278][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.08.20-05.35.35:278][  0]LogD3D11RHI:       8081/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.20-05.35.35:281][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.20-05.35.35:281][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.20-05.35.35:281][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.20-05.35.35:291][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.20-05.35.35:291][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.20-05.35.35:291][  0]LogWindows: EnumDisplayDevices:
+[2019.08.20-05.35.35:291][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.08.20-05.35.35:291][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.20-05.35.35:291][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.20-05.35.35:292][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.20-05.35.35:292][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.08.20-05.35.35:292][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.08.20-05.35.35:292][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.08.20-05.35.35:292][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.08.20-05.35.35:292][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.08.20-05.35.35:339][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.08.20-05.35.35:339][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.08.20-05.35.35:339][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.20-05.35.35:352][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.20-05.35.35:397][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Intermediate/Shaders/WorkingDirectory/7496/).
+[2019.08.20-05.35.35:397][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vclab/AppData/Local/Temp/UnrealShaderWorkingDir/8F3D91A84E6FE81EC2BA1DAA431342CC/'.
+[2019.08.20-05.35.35:681][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.20-05.35.35:696][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.20-05.35.35:711][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.20-05.35.35:725][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.20-05.35.35:739][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.20-05.35.35:754][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.20-05.35.35:767][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.20-05.35.35:784][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.20-05.35.35:795][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.20-05.35.35:813][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.08.20-05.35.35:832][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.08.20-05.35.35:848][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.08.20-05.35.35:863][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.08.20-05.35.35:878][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.08.20-05.35.35:892][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.08.20-05.35.35:920][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.08.20-05.35.35:920][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.08.20-05.35.35:933][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-05.35.35:934][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.20-05.35.35:972][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.20-05.35.35:984][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.20-05.35.35:998][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.20-05.35.36:011][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.20-05.35.36:025][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.20-05.35.36:039][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.20-05.35.36:039][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.20-05.35.36:147][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.20-05.35.36:147][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.20-05.35.36:147][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.20-05.35.36:895][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.20-05.35.36:977][  0]LogDerivedDataCache: Loaded boot cache 0.08s 88MB C:/Users/vclab/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.08.20-05.35.36:977][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vclab/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.08.20-05.35.36:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.20-05.35.36:978][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.20-05.35.36:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.20-05.35.36:978][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.20-05.35.36:995][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.20-05.35.37:008][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vclab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.20-05.35.37:008][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.20-05.35.37:008][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.20-05.35.37:019][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.20-05.35.37:020][  0]LogSlate: Using Freetype 2.6.0
+[2019.08.20-05.35.37:020][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.20-05.35.37:020][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.20-05.35.37:139][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2019.08.20-05.35.37:490][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.20-05.35.37:654][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.20-05.35.37:657][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.20-05.35.37:657][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.20-05.35.37:657][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.20-05.35.37:657][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.08.20-05.35.37:657][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.08.20-05.35.37:689][  0]LogNetVersion: MyProject3 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 408254278)
+[2019.08.20-05.35.38:202][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.090743 seconds
+[2019.08.20-05.35.38:209][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.08.20-05.35.38:209][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.08.20-05.35.38:209][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.20-05.35.39:902][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.20-05.35.39:928][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.20-05.35.40:247][  0]SourceControl: Source control is disabled
+[2019.08.20-05.35.40:247][  0]SourceControl: Source control is disabled
+[2019.08.20-05.35.40:263][  0]SourceControl: Source control is disabled
+[2019.08.20-05.35.40:278][  0]SourceControl: Source control is disabled
+[2019.08.20-05.35.40:722][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.20-05.35.40:929][  0]LogOcInput: OculusInput pre-init called
+[2019.08.20-05.35.41:039][  0]LogEngine: Initializing Engine...
+[2019.08.20-05.35.41:137][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-841D826B
+[2019.08.20-05.35.41:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.20-05.35.41:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.20-05.35.41:391][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.20-05.35.41:422][  0]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-05.35.41:439][  0]LogInit: FAudioDevice initialized.
+[2019.08.20-05.35.41:587][  0]LogDerivedDataCache: Saved boot cache 0.15s 88MB C:/Users/vclab/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.08.20-05.35.41:611][  0]LogInit: Texture streaming: Enabled
+[2019.08.20-05.35.41:624][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.20-05.35.41:637][  0]LogInit: Transaction tracking system initialized
+[2019.08.20-05.35.41:659][  0]BlueprintLog: New page: Editor Load
+[2019.08.20-05.35.41:728][  0]LocalizationService: Localization service is disabled
+[2019.08.20-05.35.41:820][  0]LogConsoleResponse: Display: 
+[2019.08.20-05.35.41:984][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.20-05.35.41:984][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.20-05.35.41:984][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.20-05.35.41:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.20-05.35.41:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.20-05.35.42:046][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/' took 0.02s
+[2019.08.20-05.35.42:308][  0]SourceControl: Source control is disabled
+[2019.08.20-05.35.42:308][  0]Cmd: MAP LOAD FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.20-05.35.42:309][  0]LightingResults: New page: Lighting Build
+[2019.08.20-05.35.42:311][  0]MapCheck: New page: Map Check
+[2019.08.20-05.35.42:311][  0]LightingResults: New page: Lighting Build
+[2019.08.20-05.35.42:432][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.956829ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2019.08.20-05.35.42:434][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.08.20-05.35.42:443][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-05.35.42:456][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-05.35.42:505][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.647ms to complete.
+[2019.08.20-05.35.42:505][  0]LogFileHelpers: Loading map 'StartupMap' took 0.197
+[2019.08.20-05.35.42:666][  0]LogCollectionManager: Loaded 0 collections in 0.001259 seconds
+[2019.08.20-05.35.42:707][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Collections/' took 0.01s
+[2019.08.20-05.35.42:707][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/Developers/vclab/Collections/' took 0.01s
+[2019.08.20-05.35.42:707][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/Collections/' took 0.01s
+[2019.08.20-05.35.42:707][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.20-05.35.42:718][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2452 classes and 558 folders.
+[2019.08.20-05.35.42:723][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.20-05.35.42:771][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.20-05.35.42:775][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.20-05.35.42:878][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.20-05.35.42:878][  0]LogLoad: (Engine Initialization) Total time: 11.36 seconds
+[2019.08.20-05.35.42:878][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.20-05.35.42:901][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.08.20-05.35.42:937][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.20-05.35.42:939][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.20-05.35.42:942][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.20-05.35.42:946][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.20-05.35.43:094][  1]LogAssetRegistry: Asset discovery search completed in 5.9778 seconds
+[2019.08.20-05.35.43:096][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.20-05.35.43:096][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2019.08.20-05.35.43:125][  2]LogRenderer: Reallocating scene render targets to support 856x380 Format 26 NumSamples 1 (Frame:1).
+[2019.08.20-05.35.43:916][ 43]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.20-05.35.44:262][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-05.35.48:198][127]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.20-05.35.48:350][128]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.20-05.35.51:356][296]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.20-05.35.53:555][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc13ea4aa0, Size=224, Default__enemy_C Function /Game/enemy/enemy.enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-05.35.53:559][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc1da29420, Size=32, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-05.35.53:561][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc2345e080, Size=784, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.35.53:586][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc23340e98, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2019.08.20-05.35.53:618][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc0d15f900, Size=1184, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2019.08.20-05.35.53:674][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc0d15f900, Size=1184
+[2019.08.20-05.35.53:674][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc24020100, Size=1184, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_3:ExecuteUbergraph_BP_MotionController
+[2019.08.20-05.35.53:674][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc1da29420, Size=32
+[2019.08.20-05.35.53:674][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc766da580, Size=32, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_0:ExecuteUbergraph_enimblue
+[2019.08.20-05.35.53:674][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc23340e98, Size=24
+[2019.08.20-05.35.53:674][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc23f4bc70, Size=24, Default__RightHand_AnimBP_C Function /Engine/Transient.REINST_RightHand_AnimBP_C_1:ExecuteUbergraph_RightHand_AnimBP
+[2019.08.20-05.35.53:675][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc2345e080, Size=784
+[2019.08.20-05.35.53:675][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc24032780, Size=784, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_4:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.35.53:675][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc13ea4aa0, Size=224
+[2019.08.20-05.35.53:675][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc766a18a0, Size=224, Default__enemy_C Function /Engine/Transient.REINST_enemy_C_5:ExecuteUbergraph_enemy
+[2019.08.20-05.35.53:716][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc24789600, Size=1184, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2019.08.20-05.35.53:718][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc2473f040, Size=32, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-05.35.53:719][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc2471fa00, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2019.08.20-05.35.53:722][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc24714f00, Size=784, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.35.53:723][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc248243a0, Size=224, Default__enemy_C Function /Game/enemy/enemy.enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-05.35.53:747][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc246b1d00, Size=392, Default__ThirdPersonCharacter_C Function /Game/myfolder/blueprint/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.08.20-05.35.53:749][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc248671a0, Size=40, Default__playeranim_C Function /Game/myfolder/animation/playeranim.playeranim_C:ExecuteUbergraph_playeranim
+[2019.08.20-05.35.53:759][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc248671a0, Size=40
+[2019.08.20-05.35.53:759][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc248671a0, Size=40, Default__playeranim_C Function /Engine/Transient.REINST_playeranim_C_2:ExecuteUbergraph_playeranim
+[2019.08.20-05.35.53:760][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc246b1d00, Size=392
+[2019.08.20-05.35.53:760][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc246f3900, Size=392, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_13:ExecuteUbergraph_ThirdPersonCharacter
+[2019.08.20-05.35.53:765][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc24866778, Size=40, Default__playeranim_C Function /Game/myfolder/animation/playeranim.playeranim_C:ExecuteUbergraph_playeranim
+[2019.08.20-05.35.53:767][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc246f0b80, Size=392, Default__ThirdPersonCharacter_C Function /Game/myfolder/blueprint/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.08.20-05.35.53:874][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc24865e90, Size=40, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2019.08.20-05.35.53:877][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc24865e90, Size=40
+[2019.08.20-05.35.53:878][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc24865e90, Size=40, Default__BP_PickupCube_C Function /Engine/Transient.REINST_BP_PickupCube_C_18:ExecuteUbergraph_BP_PickupCube
+[2019.08.20-05.35.53:880][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc24865378, Size=40, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2019.08.20-05.35.54:033][420]LogSkeletalMesh: Skeletal Mesh found in DDC [5.374533ms] /Game/myfolder/mesh/Idle.Idle
+[2019.08.20-05.35.54:223][420]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-05.35.54:259][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc766a18a0, Size=224
+[2019.08.20-05.35.54:259][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc766da580, Size=32
+[2019.08.20-05.35.54:259][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc24032780, Size=784
+[2019.08.20-05.35.54:259][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc23f4bc70, Size=24
+[2019.08.20-05.35.54:259][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc24020100, Size=1184
+[2019.08.20-05.35.54:259][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc246f3900, Size=392
+[2019.08.20-05.35.54:260][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc248671a0, Size=40
+[2019.08.20-05.35.54:260][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc24865e90, Size=40
+[2019.08.20-05.35.54:262][420]Cmd: MAP LOAD FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.20-05.35.54:262][420]LightingResults: New page: Lighting Build
+[2019.08.20-05.35.54:263][420]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.08.20-05.35.54:264][420]MapCheck: New page: Map Check
+[2019.08.20-05.35.54:264][420]LightingResults: New page: Lighting Build
+[2019.08.20-05.35.54:363][420]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-05.35.54:405][420]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-05.35.54:458][420]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.518ms to complete.
+[2019.08.20-05.35.54:460][420]LogFileHelpers: Loading map 'MotionControllerMap' took 0.199
+[2019.08.20-05.36.02:763][515]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.20-05.36.05:456][523]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-05.36.21:448][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.36.21:449][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-05.36.21:449][766]PIE: New page: PIE session: MotionControllerMap (Aug 20, 2019, 11:36:21 PM)
+[2019.08.20-05.36.21:450][766]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-05.36.21:463][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013064s)
+[2019.08.20-05.36.21:464][766]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-05.36.21:464][766]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2019.08.20-05.36.21:464][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.014130s)
+[2019.08.20-05.36.21:503][766]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-05.36.21:519][766]LogInit: FAudioDevice initialized.
+[2019.08.20-05.36.22:147][766]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-841D826B
+[2019.08.20-05.36.22:201][766]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-05.36.22:201][766]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-05.36.22:205][766]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-14.36.22
+[2019.08.20-05.36.22:206][766]LogWorld: Bringing up level for play took: 0.004064
+[2019.08.20-05.36.22:209][766]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2019.08.20-05.36.22:218][766]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.993
+[2019.08.20-05.36.22:218][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.36.22:280][767]LogRenderer: Reallocating scene render targets to support 3448x1912 Format 26 NumSamples 1 (Frame:1).
+[2019.08.20-05.36.26:197][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-05.36.30:011][257]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.30:022][258]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.30:038][259]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.30:050][260]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.30:064][261]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.30:081][262]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.30:096][263]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.30:112][264]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.30:131][265]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.30:150][266]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:337][344]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:359][346]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:379][348]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:393][349]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:406][350]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:419][351]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:434][352]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:451][353]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:468][354]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:482][355]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:495][356]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:508][357]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:524][358]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:538][359]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:552][360]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:566][361]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:582][362]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:604][362]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:614][362]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:645][364]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:687][365]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:698][365]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:730][366]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:763][368]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:799][369]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:813][370]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:843][372]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:859][373]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:880][374]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:899][375]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:914][376]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:933][376]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:939][376]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:962][378]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.31:990][379]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:001][379]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:021][381]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:048][383]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:067][384]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:090][384]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:102][384]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:123][386]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:152][387]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:162][387]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:183][389]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:209][391]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:228][392]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:248][393]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:267][394]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:286][395]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:312][395]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:321][395]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:352][397]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:386][399]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:405][400]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:429][401]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:451][402]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:471][403]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:496][404]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:519][405]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:541][406]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:566][407]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:586][408]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:609][409]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:627][410]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:644][411]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:662][412]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:682][413]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:699][414]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:719][415]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:736][416]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:756][417]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:775][418]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:793][419]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:810][420]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:831][421]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:849][422]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:866][423]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:885][424]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:905][425]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:923][426]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:943][427]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:961][428]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.32:979][429]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:000][430]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:019][431]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:038][432]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:063][433]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:082][434]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:102][434]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:130][434]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:158][436]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:188][438]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:208][439]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:226][440]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:246][441]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:262][442]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:281][443]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:300][444]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:321][445]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:341][446]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:359][447]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:378][448]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:397][449]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:417][450]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:436][451]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:454][452]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:475][453]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:494][454]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:513][455]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:539][456]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:561][457]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:585][458]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:609][459]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:631][460]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:654][461]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:678][462]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:702][463]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:725][464]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:749][465]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:775][466]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:796][467]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:821][468]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:843][469]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:865][470]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:890][471]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:913][472]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:935][473]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:962][474]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.33:987][475]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:011][476]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:032][477]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:058][478]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:080][479]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:100][480]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:120][481]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:141][482]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:160][483]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:180][484]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:200][485]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:219][486]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:241][487]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:259][488]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:286][489]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:310][490]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:331][491]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:354][492]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:380][493]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:402][494]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:423][495]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:446][496]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:469][497]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:491][498]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:515][499]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:540][500]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:562][501]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:586][502]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:609][503]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:629][504]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:653][505]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:675][506]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:698][507]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:720][508]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:741][509]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:763][510]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:785][511]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:806][512]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:828][513]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:849][514]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:871][515]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:894][516]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:916][517]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:937][518]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:960][519]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.34:981][520]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.35:002][521]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.35:024][522]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.35:047][523]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.35:068][524]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.35:089][525]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.35:113][526]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.35:129][526]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.08.20-05.36.35:175][526]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.08.20-05.37.07:034][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.37.07:136][827]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-05.37.07:175][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.37.09:564][966]LogTemp: Repeating last play command: VR Preview
+[2019.08.20-05.37.09:582][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.37.09:583][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-05.37.09:583][966]PIE: New page: PIE session: MotionControllerMap (Aug 20, 2019, 11:37:09 PM)
+[2019.08.20-05.37.09:584][966]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-05.37.09:593][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009267s)
+[2019.08.20-05.37.09:594][966]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-05.37.09:594][966]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2019.08.20-05.37.09:594][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010640s)
+[2019.08.20-05.37.09:627][966]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-05.37.09:640][966]LogInit: FAudioDevice initialized.
+[2019.08.20-05.37.09:732][966]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-05.37.09:732][966]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-05.37.09:735][966]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-14.37.09
+[2019.08.20-05.37.09:737][966]LogWorld: Bringing up level for play took: 0.004033
+[2019.08.20-05.37.09:749][966]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.524
+[2019.08.20-05.37.09:749][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.37.15:018][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-05.37.30:484][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.37.30:586][ 21]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-05.37.30:619][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.37.38:737][350]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.08.20-05.37.39:076][350]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc3d380f60, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.08.20-05.37.39:077][350]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc3d380f58, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.08.20-05.37.39:942][350]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.20-05.37.40:166][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-05.37.40:169][350]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.08.20-05.37.40:451][350]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-05.37.41:082][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2019.08.20-05.37.41:355][350]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2019.08.20-05.37.41:792][350]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.20-05.37.41:851][350]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.08.20-05.37.41:887][350]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.20-05.37.47:000][583]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.20-05.38.06:922][691]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.08.20-05.38.06:998][691]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc24714f00, Size=784
+[2019.08.20-05.38.06:998][691]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc95150800, Size=784, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_35:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.38.07:010][691]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ccc435fa00, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.38.08:064][711]LogSavePackage: Save=99.26ms
+[2019.08.20-05.38.08:064][711]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/MotionControllerPawnBC4BECDB4DE0B26E366E88A42776D386.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.08.20-05.38.08:068][711]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2019.08.20-05.38.09:105][765]LogTemp: Repeating last play command: VR Preview
+[2019.08.20-05.38.09:144][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.38.09:145][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-05.38.09:145][765]PIE: New page: PIE session: MotionControllerMap (Aug 20, 2019, 11:38:09 PM)
+[2019.08.20-05.38.09:146][765]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-05.38.09:157][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010769s)
+[2019.08.20-05.38.09:158][765]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-05.38.09:158][765]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2019.08.20-05.38.09:158][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.012184s)
+[2019.08.20-05.38.09:185][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc95150800, Size=784
+[2019.08.20-05.38.09:207][765]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-05.38.09:220][765]LogInit: FAudioDevice initialized.
+[2019.08.20-05.38.09:322][765]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-05.38.09:322][765]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-05.38.09:327][765]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-14.38.09
+[2019.08.20-05.38.09:329][765]LogWorld: Bringing up level for play took: 0.006256
+[2019.08.20-05.38.09:345][765]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.12
+[2019.08.20-05.38.09:345][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.38.21:146][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.38.21:525][805]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-05.38.21:582][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.38.39:732][844]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.08.20-05.38.39:797][844]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ccc435fa00, Size=752
+[2019.08.20-05.38.39:797][844]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc76562e00, Size=752, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_40:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.38.39:810][844]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc10b3f700, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.38.40:814][864]LogSavePackage: Save=94.64ms
+[2019.08.20-05.38.40:814][864]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/MotionControllerPawn7BF3E6914256DF10AB0F119D75EFD1A1.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.08.20-05.38.40:818][864]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2019.08.20-05.38.42:344][954]LogTemp: Repeating last play command: VR Preview
+[2019.08.20-05.38.42:382][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.38.42:383][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-05.38.42:384][954]PIE: New page: PIE session: MotionControllerMap (Aug 20, 2019, 11:38:42 PM)
+[2019.08.20-05.38.42:384][954]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-05.38.42:395][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011056s)
+[2019.08.20-05.38.42:396][954]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-05.38.42:396][954]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2019.08.20-05.38.42:396][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.012500s)
+[2019.08.20-05.38.42:423][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc76562e00, Size=752
+[2019.08.20-05.38.42:445][954]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-05.38.42:456][954]LogInit: FAudioDevice initialized.
+[2019.08.20-05.38.42:555][954]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-05.38.42:555][954]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-05.38.42:560][954]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-14.38.42
+[2019.08.20-05.38.42:562][954]LogWorld: Bringing up level for play took: 0.005746
+[2019.08.20-05.38.42:578][954]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.647
+[2019.08.20-05.38.42:579][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.38.59:921][501]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.39.00:273][501]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-05.39.00:332][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.39.11:104][120]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.20-05.39.29:200][188]BlueprintLog: New page: Compile BP_MotionController
+[2019.08.20-05.39.29:381][188]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc24789600, Size=1184
+[2019.08.20-05.39.29:382][188]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ccb4f77900, Size=1184, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_46:ExecuteUbergraph_BP_MotionController
+[2019.08.20-05.39.29:410][188]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc95a24800, Size=1184, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2019.08.20-05.39.30:228][201]LogSavePackage: Save=238.32ms
+[2019.08.20-05.39.30:228][201]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/BP_MotionController82AC4B4E4F5377E79072879090D93457.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2019.08.20-05.39.30:232][201]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2019.08.20-05.39.31:065][236]LogSavePackage: Save=223.92ms
+[2019.08.20-05.39.31:065][236]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/BP_MotionControllerEDF1A3FB4CC59B7918E6DE98B0150A2B.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2019.08.20-05.39.31:067][236]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2019.08.20-05.39.42:530][854]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.20-05.39.42:830][856]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject3
+[2019.08.20-05.39.42:830][856]LogTemp: CWD: D:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.08.20-05.39.42:830][856]LogTemp: Initial Dir: D:\UE_4.19
+[2019.08.20-05.39.42:831][856]LogTemp: Env CWD: D:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.08.20-05.39.42:831][856]LogTemp: BranchPath = DESKTOP-NK6UODR/D/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-NK6UODR/D/UE_4.19/Engine/Binaries
+[2019.08.20-05.39.42:831][856]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\vclab\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.08.20-05.40.09:496][438]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ccb4f77900, Size=1184
+[2019.08.20-05.40.09:710][438]LogSavePackage: Save=203.04ms
+[2019.08.20-05.40.09:710][438]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/MotionControllerMap6FEEC54B45974D354CEBD2A590B00917.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.08.20-05.40.09:715][438]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2019.08.20-05.40.09:986][438]LogSavePackage: Save=225.56ms
+[2019.08.20-05.40.09:986][438]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/MotionControllerMap_BuiltData945438FD4824AAAD997DA286C43AA23E.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2019.08.20-05.40.09:989][438]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2019.08.20-05.40.29:895][444]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc55f7bef8, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.40.31:501][521]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.08.20-05.40.31:538][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc55f7bef8, Size=4
+[2019.08.20-05.40.31:539][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc1d0f8bc8, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_54:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.40.31:572][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc10b3f700, Size=752
+[2019.08.20-05.40.31:573][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cce6765000, Size=752, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_57:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.40.31:585][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc965f4700, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-05.40.31:870][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc1d0f8bc8, Size=4
+[2019.08.20-05.40.32:575][541]LogSavePackage: Save=96.88ms
+[2019.08.20-05.40.32:575][541]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/MotionControllerPawn7A2558F442097FB0F2F54F9B4CCDC569.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.08.20-05.40.32:578][541]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2019.08.20-05.40.33:555][595]LogTemp: Repeating last play command: VR Preview
+[2019.08.20-05.40.33:597][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.40.33:599][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-05.40.33:599][595]PIE: New page: PIE session: MotionControllerMap (Aug 20, 2019, 11:40:33 PM)
+[2019.08.20-05.40.33:599][595]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-05.40.33:609][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009420s)
+[2019.08.20-05.40.33:610][595]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-05.40.33:610][595]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2019.08.20-05.40.33:610][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010877s)
+[2019.08.20-05.40.33:635][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cce6765000, Size=752
+[2019.08.20-05.40.33:656][595]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-05.40.33:668][595]LogInit: FAudioDevice initialized.
+[2019.08.20-05.40.33:767][595]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-05.40.33:767][595]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-05.40.33:773][595]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-14.40.33
+[2019.08.20-05.40.33:774][595]LogWorld: Bringing up level for play took: 0.006403
+[2019.08.20-05.40.33:793][595]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.568
+[2019.08.20-05.40.33:793][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.40.41:746][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.40.42:078][302]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-05.40.42:137][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.41.10:787][960]BlueprintLog: New page: Compile BP_MotionController
+[2019.08.20-05.41.10:967][960]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc95a24800, Size=1184
+[2019.08.20-05.41.10:967][960]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cccb661600, Size=1184, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_63:ExecuteUbergraph_BP_MotionController
+[2019.08.20-05.41.10:997][960]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cccb271d00, Size=1184, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2019.08.20-05.41.11:915][961]LogSavePackage: Save=234.82ms
+[2019.08.20-05.41.11:916][961]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/BP_MotionController7C0B936748F4D65A79F4B49FF04AF7D8.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2019.08.20-05.41.11:919][961]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2019.08.20-05.41.46:904][ 21]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc953608c8, Size=4, Default__SKEL_enemy_C Function /Game/enemy/enemy.SKEL_enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-05.41.48:331][102]BlueprintLog: New page: Compile enemy
+[2019.08.20-05.41.48:348][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc953608c8, Size=4
+[2019.08.20-05.41.48:349][102]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cccb335618, Size=4, Default__SKEL_enemy_C Function /Engine/Transient.REINST_SKEL_enemy_C_67:ExecuteUbergraph_enemy
+[2019.08.20-05.41.48:365][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc248243a0, Size=224
+[2019.08.20-05.41.48:365][102]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc14665980, Size=224, Default__enemy_C Function /Engine/Transient.REINST_enemy_C_69:ExecuteUbergraph_enemy
+[2019.08.20-05.41.48:371][102]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cc56b083a0, Size=224, Default__enemy_C Function /Game/enemy/enemy.enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-05.41.48:659][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cccb661600, Size=1184
+[2019.08.20-05.41.48:660][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cccb335618, Size=4
+[2019.08.20-05.41.49:165][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enemy" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset" SILENT=true
+[2019.08.20-05.41.49:238][124]LogSavePackage: Save=62.30ms
+[2019.08.20-05.41.49:238][124]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enemyDD78D5E24D5C122FFC8EFD8EA712FFCF.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset'
+[2019.08.20-05.41.49:242][124]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset
+[2019.08.20-05.41.55:449][493]LogTemp: Repeating last play command: VR Preview
+[2019.08.20-05.41.55:480][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.41.55:481][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-05.41.55:482][493]PIE: New page: PIE session: MotionControllerMap (Aug 20, 2019, 11:41:55 PM)
+[2019.08.20-05.41.55:482][493]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-05.41.55:492][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009947s)
+[2019.08.20-05.41.55:493][493]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-05.41.55:493][493]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2019.08.20-05.41.55:493][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011470s)
+[2019.08.20-05.41.55:542][493]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-05.41.55:554][493]LogInit: FAudioDevice initialized.
+[2019.08.20-05.41.55:681][493]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-05.41.55:682][493]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-05.41.55:686][493]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-14.41.55
+[2019.08.20-05.41.55:687][493]LogWorld: Bringing up level for play took: 0.004676
+[2019.08.20-05.41.55:710][493]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.485
+[2019.08.20-05.41.55:711][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.42.03:564][191]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.42.03:716][191]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-05.42.03:775][191]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-05.42.06:246][325]LogSlate: Window 'enimblue' being destroyed
+[2019.08.20-05.42.06:251][325]LogSlate: Window 'enimblue' being destroyed
+[2019.08.20-05.42.06:327][325]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.20-05.42.06:666][325]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.20-05.42.08:632][355]LogSlate: Window 'Save Content' being destroyed
+[2019.08.20-05.42.08:957][355]LogSavePackage: Save=213.59ms
+[2019.08.20-05.42.08:957][355]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/MotionControllerMapE92C13384B65A5FC5FFC5E9542EFC78E.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.08.20-05.42.08:961][355]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2019.08.20-05.42.08:987][355]LogFileHelpers: Saving map 'MotionControllerMap' took 0.329
+[2019.08.20-05.42.09:073][355]LogSlate: Window 'Output Log' being destroyed
+[2019.08.20-05.42.09:082][355]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.20-05.42.09:114][355]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2019.08.20-05.42.09:117][355]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.08.20-05.42.09:319][356]Cmd: QUIT_EDITOR
+[2019.08.20-05.42.10:246][356]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.20-05.42.10:246][356]LogExit: Preparing to exit.
+[2019.08.20-05.42.11:192][356]LogExit: Editor shut down
+[2019.08.20-05.42.11:197][356]LogExit: Transaction tracking system shut down
+[2019.08.20-05.42.11:198][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cccb271d00, Size=1184
+[2019.08.20-05.42.11:198][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc56b083a0, Size=224
+[2019.08.20-05.42.11:198][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc2473f040, Size=32
+[2019.08.20-05.42.11:198][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc2471fa00, Size=24
+[2019.08.20-05.42.11:198][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc14665980, Size=224
+[2019.08.20-05.42.11:198][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc24866778, Size=40
+[2019.08.20-05.42.11:198][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc246f0b80, Size=392
+[2019.08.20-05.42.11:198][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc965f4700, Size=752
+[2019.08.20-05.42.11:199][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc24865378, Size=40
+[2019.08.20-05.42.11:201][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc3d380f60, Size=4
+[2019.08.20-05.42.11:201][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cc3d380f58, Size=4
+[2019.08.20-05.42.11:322][356]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.08.20-05.42.11:323][356]LogDirectoryWatcher: A directory notification for 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/' was aborted.
+[2019.08.20-05.42.11:323][356]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.08.20-05.42.11:323][356]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.08.20-05.42.11:323][356]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.08.20-05.42.11:323][356]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.08.20-05.42.11:323][356]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.08.20-05.42.11:323][356]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.08.20-05.42.11:420][356]LogExit: Object subsystem successfully closed.
+[2019.08.20-05.42.11:444][356]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.20-05.42.11:448][356]LogD3D11RHI: Shutdown
+[2019.08.20-05.42.11:448][356]LogD3D11RHI: CleanupD3DDevice
+[2019.08.20-05.42.11:451][356]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (588)
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (586)
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module PinnedCommandList (584)
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module SkeletonEditor (582)
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (580)
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2019.08.20-05.42.11:466][356]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2019.08.20-05.42.11:466][356]LogDirectoryWatcher: A directory notification for 'D:/UE_4.19/FeaturePacks/' was aborted.
+[2019.08.20-05.42.11:469][356]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2019.08.20-05.42.11:469][356]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2019.08.20-05.42.11:469][356]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2019.08.20-05.42.11:469][356]LogDirectoryWatcher: A directory notification for 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/Collections/' was aborted.
+[2019.08.20-05.42.11:469][356]LogDirectoryWatcher: A directory notification for 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/Developers/vclab/Collections/' was aborted.
+[2019.08.20-05.42.11:469][356]LogDirectoryWatcher: A directory notification for 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Collections/' was aborted.
+[2019.08.20-05.42.11:469][356]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2019.08.20-05.42.11:469][356]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2019.08.20-05.42.11:469][356]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2019.08.20-05.42.11:469][356]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2019.08.20-05.42.11:470][356]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2019.08.20-05.42.11:471][356]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2019.08.20-05.42.11:471][356]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2019.08.20-05.42.11:471][356]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2019.08.20-05.42.11:471][356]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2019.08.20-05.42.11:471][356]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2019.08.20-05.42.11:471][356]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2019.08.20-05.42.11:471][356]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2019.08.20-05.42.11:983][356]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2019.08.20-05.42.11:983][356]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2019.08.20-05.42.11:983][356]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2019.08.20-05.42.11:983][356]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2019.08.20-05.42.11:983][356]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2019.08.20-05.42.11:983][356]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2019.08.20-05.42.11:983][356]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2019.08.20-05.42.11:984][356]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2019.08.20-05.42.12:039][356]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2019.08.20-05.42.12:046][356]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2019.08.20-05.42.12:047][356]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2019.08.20-05.42.12:047][356]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2019.08.20-05.42.12:047][356]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2019.08.20-05.42.12:047][356]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2019.08.20-05.42.12:118][356]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2019.08.20-05.42.12:119][356]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.08.20-05.42.12:123][356]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.08.20-05.42.12:124][356]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.08.20-05.42.12:124][356]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.08.20-05.42.12:124][356]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2019.08.20-05.42.12:124][356]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2019.08.20-05.42.12:124][356]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2019.08.20-05.42.12:124][356]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2019.08.20-05.42.12:225][356]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2019.08.20-05.42.12:325][356]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2019.08.20-05.42.12:325][356]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2019.08.20-05.42.12:325][356]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2019.08.20-05.42.12:325][356]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2019.08.20-05.42.12:325][356]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2019.08.20-05.42.12:325][356]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2019.08.20-05.42.12:326][356]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2019.08.20-05.42.12:326][356]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2019.08.20-05.42.12:326][356]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2019.08.20-05.42.12:326][356]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.08.20-05.42.12:326][356]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2019.08.20-05.42.12:327][356]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2019.08.20-05.42.12:327][356]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2019.08.20-05.42.12:327][356]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2019.08.20-05.42.12:327][356]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2019.08.20-05.42.12:811][356]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2019.08.20-05.42.12:811][356]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2019.08.20-05.42.12:811][356]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2019.08.20-05.42.12:813][356]LogModuleManager: Shutting down and abandoning module Media (233)
+[2019.08.20-05.42.12:819][356]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.08.20-05.42.12:819][356]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.08.20-05.42.12:820][356]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.08.20-05.42.12:822][356]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.08.20-05.42.12:822][356]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.08.20-05.42.12:822][356]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.08.20-05.42.12:822][356]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.08.20-05.42.12:822][356]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.08.20-05.42.12:822][356]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.08.20-05.42.12:822][356]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2019.08.20-05.42.12:822][356]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.08.20-05.42.12:822][356]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.08.20-05.42.12:823][356]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.08.20-05.42.12:823][356]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.08.20-05.42.12:823][356]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2019.08.20-05.42.12:823][356]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2019.08.20-05.42.12:823][356]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.08.20-05.42.12:823][356]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.08.20-05.42.12:823][356]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2019.08.20-05.42.12:823][356]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.20-05.42.12:915][356]LogDerivedDataCache: Shutdown
+[2019.08.20-05.42.12:915][356]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.20-05.42.12:915][356]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.20-05.42.12:915][356]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.20-05.42.12:915][356]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.08.20-05.42.12:916][356]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.08.20-05.42.12:917][356]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.08.20-05.42.12:917][356]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.08.20-05.42.12:917][356]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.08.20-05.42.12:917][356]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.08.20-05.42.12:917][356]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.08.20-05.42.12:917][356]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.20-05.42.12:917][356]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36B55164-429C-436D-9EE4-D2B3BE1AC41D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=dfca0052438f2c378ee5559f512c7fe9%7C790c354293504f0da6ed5742c017ffdb%7Cfc6616a5-aa90-4ee0-92f8-389728187adc&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.20-05.42.12:946][356]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.08.20-05.42.12:947][356]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.08.20-05.42.12:947][356]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.08.20-05.42.12:948][356]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.08.20-05.42.12:948][356]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.08.20-05.42.12:948][356]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.08.20-05.42.12:948][356]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.08.20-05.42.12:948][356]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.08.20-05.42.12:949][356]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.08.20-05.42.12:949][356]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.08.20-05.42.12:949][356]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.08.20-05.42.12:949][356]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.08.20-05.42.12:949][356]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.08.20-05.42.12:949][356]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.08.20-05.42.12:949][356]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.08.20-05.42.12:949][356]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.08.20-05.42.12:949][356]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.08.20-05.42.12:950][356]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.08.20-05.42.12:950][356]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.08.20-05.42.12:959][356]LogExit: Exiting.
+[2019.08.20-05.42.12:973][356]Log file closed, 08/20/19 14:42:12

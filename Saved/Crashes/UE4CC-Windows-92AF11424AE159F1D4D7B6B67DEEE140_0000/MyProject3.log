@@ -1,0 +1,1124 @@
+﻿Log file open, 08/20/19 16:21:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject3
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1344667752) SRandInit(1344667752).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282174
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.901s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-NK6UODR (172.24.235.191:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal  -epicusername="CooperJo34" -epicuserid=790c354293504f0da6ed5742c017ffdb -epiclocale=en-US
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.08.20-07.21.57:652][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.20-07.21.57:652][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.20-07.21.57:666][  0]LogInit: Computer: DESKTOP-NK6UODR
+[2019.08.20-07.21.57:666][  0]LogInit: User: vclab
+[2019.08.20-07.21.57:666][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.20-07.21.57:666][  0]LogInit: High frequency timer resolution =2.742192 MHz
+[2019.08.20-07.21.57:667][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.08.20-07.21.57:667][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.20-07.21.57:667][  0]LogMemory: Process Physical Memory: 274.37 MB used, 274.37 MB peak
+[2019.08.20-07.21.57:667][  0]LogMemory: Process Virtual Memory: 264.69 MB used, 264.69 MB peak
+[2019.08.20-07.21.57:667][  0]LogMemory: Physical Memory: 7351.71 MB used,  8985.50 MB free, 16337.21 MB total
+[2019.08.20-07.21.57:667][  0]LogMemory: Virtual Memory: 4795.76 MB used,  8985.50 MB free, 134217728.00 MB total
+[2019.08.20-07.21.58:293][  0]LogInit: Using OS detected language (en-US).
+[2019.08.20-07.21.58:293][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.20-07.21.58:297][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.20-07.21.58:778][  0]LogStreaming: Display: Took  0.486s to EndInitTextLocalization.
+[2019.08.20-07.21.58:778][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.20-07.21.58:814][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.20-07.21.58:814][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.20-07.21.59:032][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.20-07.21.59:138][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.08.20-07.21.59:138][  0]LogD3D11RHI:       8081/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.20-07.21.59:140][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.20-07.21.59:140][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.20-07.21.59:140][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.20-07.21.59:150][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.20-07.21.59:150][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.20-07.21.59:150][  0]LogWindows: EnumDisplayDevices:
+[2019.08.20-07.21.59:150][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.08.20-07.21.59:150][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.20-07.21.59:150][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.20-07.21.59:150][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.20-07.21.59:150][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.08.20-07.21.59:150][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.08.20-07.21.59:150][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.08.20-07.21.59:150][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.08.20-07.21.59:150][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.08.20-07.21.59:198][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.08.20-07.21.59:198][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.08.20-07.21.59:198][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.20-07.21.59:212][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.20-07.21.59:256][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Intermediate/Shaders/WorkingDirectory/17932/).
+[2019.08.20-07.21.59:256][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vclab/AppData/Local/Temp/UnrealShaderWorkingDir/6A5503ED48A82B1FF3A8B49CB348A305/'.
+[2019.08.20-07.21.59:539][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.20-07.21.59:553][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.20-07.21.59:567][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.20-07.21.59:580][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.20-07.21.59:595][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.20-07.21.59:611][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.20-07.21.59:627][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.20-07.21.59:643][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.20-07.21.59:651][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.20-07.21.59:664][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.08.20-07.21.59:678][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.08.20-07.21.59:691][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.08.20-07.21.59:705][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.08.20-07.21.59:719][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.08.20-07.21.59:733][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.08.20-07.21.59:762][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.08.20-07.21.59:762][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.08.20-07.21.59:778][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-07.21.59:779][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.20-07.21.59:817][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.20-07.21.59:829][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.20-07.21.59:844][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.20-07.21.59:857][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.20-07.21.59:872][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.20-07.21.59:888][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.20-07.21.59:888][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.20-07.21.59:985][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.20-07.21.59:985][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.20-07.21.59:985][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.20-07.22.00:774][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.20-07.22.00:858][  0]LogDerivedDataCache: Loaded boot cache 0.08s 88MB C:/Users/vclab/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.08.20-07.22.00:858][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vclab/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.08.20-07.22.00:858][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.20-07.22.00:858][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.20-07.22.00:858][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.20-07.22.00:858][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.20-07.22.00:877][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.20-07.22.00:889][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vclab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.20-07.22.00:889][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.20-07.22.00:889][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.20-07.22.00:903][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.20-07.22.00:903][  0]LogSlate: Using Freetype 2.6.0
+[2019.08.20-07.22.00:904][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.20-07.22.00:904][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.20-07.22.01:032][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2019.08.20-07.22.01:393][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.20-07.22.01:566][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.20-07.22.01:569][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.20-07.22.01:569][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.20-07.22.01:569][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.20-07.22.01:569][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.08.20-07.22.01:569][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.08.20-07.22.01:604][  0]LogNetVersion: MyProject3 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 408254278)
+[2019.08.20-07.22.02:185][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.091424 seconds
+[2019.08.20-07.22.02:191][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.08.20-07.22.02:191][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.08.20-07.22.02:191][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.20-07.22.04:062][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.20-07.22.04:088][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.20-07.22.04:406][  0]SourceControl: Source control is disabled
+[2019.08.20-07.22.04:406][  0]SourceControl: Source control is disabled
+[2019.08.20-07.22.04:422][  0]SourceControl: Source control is disabled
+[2019.08.20-07.22.04:437][  0]SourceControl: Source control is disabled
+[2019.08.20-07.22.04:873][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.20-07.22.05:067][  0]LogOcInput: OculusInput pre-init called
+[2019.08.20-07.22.05:175][  0]LogEngine: Initializing Engine...
+[2019.08.20-07.22.05:274][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-841D826B
+[2019.08.20-07.22.05:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.20-07.22.05:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.20-07.22.05:517][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.20-07.22.05:606][  0]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-07.22.05:625][  0]LogInit: FAudioDevice initialized.
+[2019.08.20-07.22.05:767][  0]LogDerivedDataCache: Saved boot cache 0.14s 88MB C:/Users/vclab/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.08.20-07.22.05:790][  0]LogInit: Texture streaming: Enabled
+[2019.08.20-07.22.05:803][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.20-07.22.05:816][  0]LogInit: Transaction tracking system initialized
+[2019.08.20-07.22.05:836][  0]BlueprintLog: New page: Editor Load
+[2019.08.20-07.22.05:898][  0]LocalizationService: Localization service is disabled
+[2019.08.20-07.22.05:984][  0]LogConsoleResponse: Display: 
+[2019.08.20-07.22.06:144][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.20-07.22.06:144][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.20-07.22.06:144][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.20-07.22.06:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.20-07.22.06:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.20-07.22.06:466][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/' took 0.02s
+[2019.08.20-07.22.06:466][  0]SourceControl: Source control is disabled
+[2019.08.20-07.22.06:467][  0]Cmd: MAP LOAD FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.20-07.22.06:467][  0]LightingResults: New page: Lighting Build
+[2019.08.20-07.22.06:469][  0]MapCheck: New page: Map Check
+[2019.08.20-07.22.06:470][  0]LightingResults: New page: Lighting Build
+[2019.08.20-07.22.06:608][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.930572ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2019.08.20-07.22.06:610][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.08.20-07.22.06:619][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-07.22.06:632][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-07.22.06:678][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.035ms to complete.
+[2019.08.20-07.22.06:678][  0]LogFileHelpers: Loading map 'StartupMap' took 0.211
+[2019.08.20-07.22.06:838][  0]LogCollectionManager: Loaded 0 collections in 0.001109 seconds
+[2019.08.20-07.22.06:879][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Collections/' took 0.01s
+[2019.08.20-07.22.06:879][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/Developers/vclab/Collections/' took 0.01s
+[2019.08.20-07.22.06:879][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/Collections/' took 0.01s
+[2019.08.20-07.22.06:879][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.20-07.22.06:889][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2452 classes and 558 folders.
+[2019.08.20-07.22.06:896][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.20-07.22.06:938][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.20-07.22.06:942][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.20-07.22.07:048][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.20-07.22.07:054][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.20-07.22.07:059][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.20-07.22.07:063][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.08.20-07.22.07:202][  0]LogRenderer: Reallocating scene render targets to support 1028x456 Format 26 NumSamples 1 (Frame:1).
+[2019.08.20-07.22.07:438][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.20-07.22.07:438][  0]LogLoad: (Engine Initialization) Total time: 12.06 seconds
+[2019.08.20-07.22.07:438][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.20-07.22.07:451][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.08.20-07.22.07:492][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.20-07.22.07:569][  1]LogAssetRegistry: Asset discovery search completed in 6.5597 seconds
+[2019.08.20-07.22.07:572][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.20-07.22.07:573][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000407 seconds (updated 0 objects)
+[2019.08.20-07.22.08:485][ 63]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.20-07.22.11:549][240]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.20-07.27.07:320][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-07.27.07:429][671]LogSlate: Window 'Output Log' being destroyed
+[2019.08.20-07.27.07:446][671]LogSlate: Window 'Output Log' being destroyed
+[2019.08.20-07.27.08:921][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-07.27.10:492][904]LogSlate: Window 'Message Log' being destroyed
+[2019.08.20-07.27.10:505][904]LogSlate: Window 'Message Log' being destroyed
+[2019.08.20-07.27.11:835][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-07.27.14:773][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f9095b120, Size=224, Default__enemy_C Function /Game/enemy/enemy.enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.27.14:776][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc53e8d88, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.27.14:815][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fc53e8d88, Size=40
+[2019.08.20-07.27.14:815][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc53e8d88, Size=40, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_0:ExecuteUbergraph_enimblue
+[2019.08.20-07.27.14:815][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f9095b120, Size=224
+[2019.08.20-07.27.14:815][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f907af120, Size=224, Default__enemy_C Function /Engine/Transient.REINST_enemy_C_2:ExecuteUbergraph_enemy
+[2019.08.20-07.27.14:823][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc53ea188, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.27.14:825][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f93395c20, Size=224, Default__enemy_C Function /Game/enemy/enemy.enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.27.14:841][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fb8cdcf00, Size=392, Default__ThirdPersonCharacter_C Function /Game/myfolder/blueprint/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.08.20-07.27.14:842][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc53ea390, Size=40, Default__playeranim_C Function /Game/myfolder/animation/playeranim.playeranim_C:ExecuteUbergraph_playeranim
+[2019.08.20-07.27.14:854][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fc53ea390, Size=40
+[2019.08.20-07.27.14:854][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc53ea390, Size=40, Default__playeranim_C Function /Engine/Transient.REINST_playeranim_C_1:ExecuteUbergraph_playeranim
+[2019.08.20-07.27.14:854][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fb8cdcf00, Size=392
+[2019.08.20-07.27.14:854][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fb14a2400, Size=392, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_6:ExecuteUbergraph_ThirdPersonCharacter
+[2019.08.20-07.27.14:862][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc53eb290, Size=40, Default__playeranim_C Function /Game/myfolder/animation/playeranim.playeranim_C:ExecuteUbergraph_playeranim
+[2019.08.20-07.27.14:863][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f98b27580, Size=392, Default__ThirdPersonCharacter_C Function /Game/myfolder/blueprint/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.08.20-07.27.14:973][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc5446f48, Size=40, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2019.08.20-07.27.14:977][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fc5446f48, Size=40
+[2019.08.20-07.27.14:977][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc5446f48, Size=40, Default__BP_PickupCube_C Function /Engine/Transient.REINST_BP_PickupCube_C_13:ExecuteUbergraph_BP_PickupCube
+[2019.08.20-07.27.14:979][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc5446f70, Size=40, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2019.08.20-07.27.15:001][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fac902248, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2019.08.20-07.27.15:004][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fac902248, Size=24
+[2019.08.20-07.27.15:004][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fac902248, Size=24, Default__RightHand_AnimBP_C Function /Engine/Transient.REINST_RightHand_AnimBP_C_2:ExecuteUbergraph_RightHand_AnimBP
+[2019.08.20-07.27.15:007][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fac901a20, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2019.08.20-07.27.15:029][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fb1271600, Size=1184, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2019.08.20-07.27.15:063][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fb1271600, Size=1184
+[2019.08.20-07.27.15:063][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fca52dd00, Size=1184, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_16:ExecuteUbergraph_BP_MotionController
+[2019.08.20-07.27.15:095][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f8b19d600, Size=1184, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2019.08.20-07.27.15:104][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f98637200, Size=784, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-07.27.15:120][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f98637200, Size=784
+[2019.08.20-07.27.15:120][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f98637200, Size=784, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_18:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-07.27.15:133][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f98634f00, Size=784, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.08.20-07.27.15:545][278]LogSkeletalMesh: Skeletal Mesh found in DDC [6.096582ms] /Game/myfolder/mesh/Idle.Idle
+[2019.08.20-07.27.15:553][278]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-07.27.15:589][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f907af120, Size=224
+[2019.08.20-07.27.15:589][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fc53e8d88, Size=40
+[2019.08.20-07.27.15:589][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fb14a2400, Size=392
+[2019.08.20-07.27.15:590][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fc53ea390, Size=40
+[2019.08.20-07.27.15:590][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fc5446f48, Size=40
+[2019.08.20-07.27.15:590][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fac902248, Size=24
+[2019.08.20-07.27.15:590][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fca52dd00, Size=1184
+[2019.08.20-07.27.15:590][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f98637200, Size=784
+[2019.08.20-07.27.15:593][278]Cmd: MAP LOAD FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.20-07.27.15:593][278]LightingResults: New page: Lighting Build
+[2019.08.20-07.27.15:593][278]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.08.20-07.27.15:594][278]MapCheck: New page: Map Check
+[2019.08.20-07.27.15:594][278]LightingResults: New page: Lighting Build
+[2019.08.20-07.27.15:694][278]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-07.27.15:736][278]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-07.27.15:790][278]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.888ms to complete.
+[2019.08.20-07.27.15:792][278]LogFileHelpers: Loading map 'MotionControllerMap' took 0.199
+[2019.08.20-07.27.22:521][873]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2019.08.20-07.27.22:857][873]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fdaab9620, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.08.20-07.27.22:858][873]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fdaab9618, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.08.20-07.27.23:356][873]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.20-07.27.23:513][874]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.20-07.28.07:875][606]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a000490818, Size=4, Default__SKEL_enemy_C Function /Game/enemy/enemy.SKEL_enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.28.13:487][926]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a000490818, Size=4
+[2019.08.20-07.28.13:487][926]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fdc5a4fb0, Size=4, Default__SKEL_enemy_C Function /Engine/Transient.REINST_SKEL_enemy_C_34:ExecuteUbergraph_enemy
+[2019.08.20-07.28.13:491][926]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fdc5a4e88, Size=4, Default__SKEL_enemy_C Function /Game/enemy/enemy.SKEL_enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.28.14:918][ 11]BlueprintLog: New page: Compile enemy
+[2019.08.20-07.28.14:936][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fdc5a4e88, Size=4
+[2019.08.20-07.28.14:936][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a000490618, Size=4, Default__SKEL_enemy_C Function /Engine/Transient.REINST_SKEL_enemy_C_37:ExecuteUbergraph_enemy
+[2019.08.20-07.28.14:962][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f93395c20, Size=224
+[2019.08.20-07.28.14:962][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fde37a780, Size=224, Default__enemy_C Function /Engine/Transient.REINST_enemy_C_41:ExecuteUbergraph_enemy
+[2019.08.20-07.28.14:967][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fde378b80, Size=224, Default__enemy_C Function /Game/enemy/enemy.enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.28.15:331][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a000490618, Size=4
+[2019.08.20-07.29.18:690][216]BlueprintLog: New page: Compile enemy
+[2019.08.20-07.29.18:734][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fde378b80, Size=224
+[2019.08.20-07.29.18:734][216]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f9fa97580, Size=224, enemy_C_11 Function /Engine/Transient.REINST_enemy_C_48:ExecuteUbergraph_enemy
+[2019.08.20-07.29.18:739][216]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fc53b42c0, Size=224, Default__enemy_C Function /Game/enemy/enemy.enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.29.28:733][838]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.20-07.29.28:979][838]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-07.29.28:984][838]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.08.20-07.29.29:278][838]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-07.29.29:761][838]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.08.20-07.29.29:806][838]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.20-07.29.58:905][607]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{601e4274-b338-485f-a61c-7e3b70788602} was removed. Shutting down audio device.
+[2019.08.20-07.29.58:990][607]LogAudio: Error: GetDeviceCount error: Unhandled error code -2147024809
+[2019.08.20-07.29.58:990][607]LogInit: No audio devices found!
+[2019.08.20-07.29.59:038][608]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.20-07.30.09:410][190]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226dbe38, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.16:941][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226dbe38, Size=4
+[2019.08.20-07.30.16:941][586]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226dbe38, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_6:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.16:945][586]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226dab20, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.31:164][399]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.30.31:172][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226dab20, Size=4
+[2019.08.20-07.30.31:172][399]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226dab20, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_7:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.31:181][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fc53ea188, Size=40
+[2019.08.20-07.30.31:181][399]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a010c7fc40, Size=40, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_8:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.31:185][399]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a010c7ec00, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.31:294][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226dab20, Size=4
+[2019.08.20-07.30.31:294][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226dbe38, Size=4
+[2019.08.20-07.30.31:294][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f9fa97580, Size=224
+[2019.08.20-07.30.32:001][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enimblue" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset" SILENT=true
+[2019.08.20-07.30.32:062][430]LogSavePackage: Save=47.27ms
+[2019.08.20-07.30.32:062][430]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enimblue0925C51C4B79E60BA19D4F9601BA5635.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset'
+[2019.08.20-07.30.32:065][430]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset
+[2019.08.20-07.30.42:536][ 43]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f9e5d2368, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.42:544][ 43]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f9e5d2368, Size=4
+[2019.08.20-07.30.42:544][ 43]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f9e5d2368, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_10:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.42:548][ 43]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f9e5d1cb0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.42:554][ 43]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f9e5d1cb0, Size=4
+[2019.08.20-07.30.42:554][ 43]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226d8b50, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_11:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.42:558][ 43]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226d91a8, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.51:420][509]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226d91a8, Size=4
+[2019.08.20-07.30.51:420][509]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226d91a8, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_12:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.51:424][509]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226d8ce0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.54:004][656]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226d8ce0, Size=4
+[2019.08.20-07.30.54:004][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226d8ce0, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_13:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.54:008][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226dbf88, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.54:015][656]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226dbf88, Size=4
+[2019.08.20-07.30.54:015][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226dbf88, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_14:ExecuteUbergraph_enimblue
+[2019.08.20-07.30.54:021][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226d86a8, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.31.28:021][601]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.31.28:030][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226d86a8, Size=4
+[2019.08.20-07.31.28:031][601]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a019161b10, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_15:ExecuteUbergraph_enimblue
+[2019.08.20-07.31.28:039][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a010c7ec00, Size=40
+[2019.08.20-07.31.28:039][601]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226c4a40, Size=40, enimblue_C_18 Function /Engine/Transient.REINST_enimblue_C_16:ExecuteUbergraph_enimblue
+[2019.08.20-07.31.28:044][601]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226c56e8, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.31.28:152][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a010c7fc40, Size=40
+[2019.08.20-07.31.28:152][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a019161b10, Size=4
+[2019.08.20-07.31.28:152][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226dbf88, Size=4
+[2019.08.20-07.31.28:152][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226d8ce0, Size=4
+[2019.08.20-07.31.28:152][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226d91a8, Size=4
+[2019.08.20-07.31.28:152][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226d8b50, Size=4
+[2019.08.20-07.31.28:152][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f9e5d2368, Size=4
+[2019.08.20-07.31.28:796][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enimblue" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset" SILENT=true
+[2019.08.20-07.31.28:857][628]LogSavePackage: Save=53.82ms
+[2019.08.20-07.31.28:857][628]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enimblueA6665EFA41EA5878C23825AA95D1C2AB.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset'
+[2019.08.20-07.31.28:861][628]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset
+[2019.08.20-07.31.34:991][968]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226d9ab0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.32.16:391][433]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.32.16:401][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226d9ab0, Size=4
+[2019.08.20-07.32.16:401][433]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0226d9ab0, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_18:ExecuteUbergraph_enimblue
+[2019.08.20-07.32.16:412][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226c56e8, Size=40
+[2019.08.20-07.32.16:412][433]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a010c7fc90, Size=40, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_19:ExecuteUbergraph_enimblue
+[2019.08.20-07.32.16:417][433]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a010c7d378, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.32.16:522][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226c4a40, Size=40
+[2019.08.20-07.32.16:522][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0226d9ab0, Size=4
+[2019.08.20-07.32.17:009][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enimblue" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset" SILENT=true
+[2019.08.20-07.32.17:072][454]LogSavePackage: Save=54.77ms
+[2019.08.20-07.32.17:072][454]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enimblueFF3EFC9C4089A2CBB038328C043D407B.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset'
+[2019.08.20-07.32.17:075][454]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset
+[2019.08.20-07.32.47:628][362]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.20-07.32.48:160][368]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-07.32.51:882][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.32.51:883][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-07.32.51:883][540]PIE: New page: PIE session: MotionControllerMap (Aug 21, 2019, 1:32:51 AM)
+[2019.08.20-07.32.51:883][540]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-07.32.51:892][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009153s)
+[2019.08.20-07.32.51:893][540]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-07.32.51:893][540]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.08.20-07.32.51:893][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010005s)
+[2019.08.20-07.32.51:916][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a010c7fc90, Size=40
+[2019.08.20-07.32.51:938][540]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-07.32.51:949][540]LogInit: FAudioDevice initialized.
+[2019.08.20-07.32.52:071][540]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-07.32.52:071][540]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-07.32.52:074][540]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-16.32.52
+[2019.08.20-07.32.52:075][540]LogWorld: Bringing up level for play took: 0.003679
+[2019.08.20-07.32.52:080][540]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2019.08.20-07.32.52:082][540]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan Y=inf Z=70.000). Resetting to 1.f.
+[2019.08.20-07.32.52:083][540]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan Y=inf Z=70.000). Resetting to 1.f.
+[2019.08.20-07.32.52:096][540]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.944
+[2019.08.20-07.32.52:096][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.32.52:151][541]LogRenderer: Reallocating scene render targets to support 3448x1912 Format 26 NumSamples 1 (Frame:1).
+[2019.08.20-07.33.09:194][ 51]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.33.09:194][ 51]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.33.09:194][ 51]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.33.09:194][ 51]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.33.09:194][ 51]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.33.11:451][253]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.33.17:795][810]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.33.17:795][810]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.33.17:795][810]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.33.17:795][810]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.33.17:795][810]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.33.19:291][944]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.33.19:291][944]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.33.19:291][944]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.33.19:291][944]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.33.19:291][944]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.33.21:134][109]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.33.29:635][870]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.33.29:635][870]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.33.29:635][870]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.33.30:507][948]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.33.30:507][948]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.33.30:507][948]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.33.30:507][948]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.33.30:507][948]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.33.34:929][344]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.33.34:929][344]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.33.34:929][344]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.33.36:113][450]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.33.36:113][450]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.33.36:113][450]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.33.36:113][450]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.33.36:113][450]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.33.38:190][636]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.33.41:631][944]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.33.41:631][944]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.33.41:631][944]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.33.41:631][944]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.33.41:631][944]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.33.46:357][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.33.46:523][367]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-07.33.46:564][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.34.27:941][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2019.08.20-07.34.27:980][ 10]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2019.08.20-07.34.28:461][ 10]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.20-07.34.38:231][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2019.08.20-07.34.38:268][553]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2019.08.20-07.34.38:721][553]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.20-07.35.04:351][604]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.08.20-07.35.04:359][604]LogLinker: Warning: Can't find file '/Game/shakefinish'
+[2019.08.20-07.35.04:359][604]LogLinker: Warning: Can't find file '/Game/shakefinish'
+[2019.08.20-07.35.04:359][604]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/shakefinish.shakefinish'
+[2019.08.20-07.35.06:211][711]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/shakefinish.shakefinish
+[2019.08.20-07.35.06:211][711]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.shakefinish) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-07.36.24:351][722]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.08.20-07.36.24:361][722]LogLinker: Warning: Can't find file '/Game/myfolder/animation/shakefinish'
+[2019.08.20-07.36.24:361][722]LogLinker: Warning: Can't find file '/Game/myfolder/animation/shakefinish'
+[2019.08.20-07.36.24:361][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/myfolder/animation/shakefinish.shakefinish'
+[2019.08.20-07.36.26:283][835]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/myfolder/animation/shakefinish.shakefinish
+[2019.08.20-07.36.26:283][835]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-07.36.46:382][973]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2019.08.20-07.36.46:648][973]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2019.08.20-07.36.47:113][973]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.20-07.36.59:813][733]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a014119a70, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.05:363][ 54]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a014119a70, Size=4
+[2019.08.20-07.37.05:363][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a014119a70, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_21:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.05:368][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a014118e88, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.05:376][ 54]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a014118e88, Size=4
+[2019.08.20-07.37.05:376][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a014118e88, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_22:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.05:381][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01411af98, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.05:387][ 54]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01411af98, Size=4
+[2019.08.20-07.37.05:387][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01411af98, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_23:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.05:392][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01411a460, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.08:839][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01411a460, Size=4
+[2019.08.20-07.37.08:839][257]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da0898, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_24:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.08:845][257]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da05f0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.18:226][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da05f0, Size=4
+[2019.08.20-07.37.18:226][784]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da05f0, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_25:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.18:233][784]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da01a8, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.21:484][971]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.37.21:494][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da01a8, Size=4
+[2019.08.20-07.37.21:494][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01918c638, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_26:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.21:502][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a010c7d378, Size=40
+[2019.08.20-07.37.21:502][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d48d10, Size=40, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_27:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.21:506][971]LogBlueprint: Warning: [Compiler enimblue] grabbing to finish  will never be taken, please connect something to  Can Enter Transition
+[2019.08.20-07.37.21:508][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d48dd8, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.37.21:625][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da0898, Size=4
+[2019.08.20-07.37.21:625][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01411af98, Size=4
+[2019.08.20-07.37.21:625][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a014118e88, Size=4
+[2019.08.20-07.37.21:625][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a014119a70, Size=4
+[2019.08.20-07.37.21:638][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da05f0, Size=4
+[2019.08.20-07.37.21:638][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01918c638, Size=4
+[2019.08.20-07.37.21:652][971]LogBlueprint: Warning: [Compiler enimblue] [0926.28] Compile of enimblue successful, but with 1 Warning(s) [in 167 ms] (/Game/enemy/enimblue.enimblue)
+[2019.08.20-07.38.00:451][239]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01411a860, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.38.00:458][239]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01411a860, Size=4
+[2019.08.20-07.38.00:458][239]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01411a860, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_29:ExecuteUbergraph_enimblue
+[2019.08.20-07.38.00:464][239]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0141184b0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.38.14:650][ 50]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.38.14:661][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0141184b0, Size=4
+[2019.08.20-07.38.14:661][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01918e6d8, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_30:ExecuteUbergraph_enimblue
+[2019.08.20-07.38.14:671][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d48dd8, Size=40
+[2019.08.20-07.38.14:671][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a011417948, Size=40, enimblue_C_32 Function /Engine/Transient.REINST_enimblue_C_31:ExecuteUbergraph_enimblue
+[2019.08.20-07.38.14:677][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a011415e68, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.38.14:784][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d48d10, Size=40
+[2019.08.20-07.38.14:784][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01918e6d8, Size=4
+[2019.08.20-07.38.14:784][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01411a860, Size=4
+[2019.08.20-07.38.15:558][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enimblue" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset" SILENT=true
+[2019.08.20-07.38.15:636][ 91]LogSavePackage: Save=64.93ms
+[2019.08.20-07.38.15:636][ 91]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enimblueA5B220914B866C45F2B246AE5B347B1A.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset'
+[2019.08.20-07.38.15:640][ 91]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset
+[2019.08.20-07.38.18:361][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enemy" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset" SILENT=true
+[2019.08.20-07.38.18:440][243]LogSavePackage: Save=64.31ms
+[2019.08.20-07.38.18:440][243]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enemyB3EC47D64FD71223792CA695E7B4F193.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset'
+[2019.08.20-07.38.18:443][243]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset
+[2019.08.20-07.38.20:009][335]LogTemp: Repeating last play command: VR Preview
+[2019.08.20-07.38.20:027][335]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.38.20:028][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-07.38.20:028][335]PIE: New page: PIE session: MotionControllerMap (Aug 21, 2019, 1:38:20 AM)
+[2019.08.20-07.38.20:028][335]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-07.38.20:038][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010105s)
+[2019.08.20-07.38.20:038][335]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-07.38.20:039][335]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.08.20-07.38.20:039][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010884s)
+[2019.08.20-07.38.20:060][335]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a011417948, Size=40
+[2019.08.20-07.38.20:081][335]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-07.38.20:093][335]LogInit: FAudioDevice initialized.
+[2019.08.20-07.38.20:192][335]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-07.38.20:192][335]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-07.38.20:198][335]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-16.38.20
+[2019.08.20-07.38.20:199][335]LogWorld: Bringing up level for play took: 0.005311
+[2019.08.20-07.38.20:215][335]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.063
+[2019.08.20-07.38.20:216][335]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.38.39:688][ 72]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.38.39:688][ 72]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.38.39:688][ 72]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.38.39:688][ 72]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.38.39:688][ 72]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.38.42:749][346]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.38.45:564][598]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.38.46:614][692]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.38.47:207][745]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.38.47:954][812]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.38.48:568][867]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.38.49:139][918]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.38.49:596][959]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.38.50:132][  7]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.38.53:673][324]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.38.53:673][324]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.38.53:673][324]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.38.53:673][324]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.38.53:673][324]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.38.54:656][412]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.38.54:656][412]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.38.54:656][412]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.38.55:449][483]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.38.55:449][483]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.38.55:449][483]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.38.56:042][536]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.38.56:042][536]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.38.56:042][536]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.38.56:924][615]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.38.56:924][615]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.38.56:924][615]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.38.56:924][615]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.38.56:924][615]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.38.58:967][798]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.39.05:123][349]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.39.05:123][349]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.39.05:123][349]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.39.05:123][349]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.39.05:123][349]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.39.06:038][431]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.39.06:038][431]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.39.06:038][431]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.39.07:055][522]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.39.07:055][522]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.39.07:055][522]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.39.07:055][522]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.39.07:055][522]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.39.08:506][652]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.39.13:164][ 69]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.39.13:164][ 69]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.39.13:164][ 69]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.39.13:164][ 69]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.39.13:164][ 69]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.39.19:700][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.39.19:860][654]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-07.39.19:906][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.39.48:461][899]LogSavePackage: Save=220.59ms
+[2019.08.20-07.39.48:461][899]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/MotionControllerMap_Auto1A50D0FE94B00D1A280B32C943B1D133F.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2019.08.20-07.39.48:463][899]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap
+[2019.08.20-07.39.48:468][899]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.282
+[2019.08.20-07.39.48:468][899]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.282
+[2019.08.20-07.39.48:477][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/shakefinish] ([1] browsable assets)...
+[2019.08.20-07.39.48:497][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/shakefinish.shakefinish]
+[2019.08.20-07.39.48:497][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/shakefinish]
+[2019.08.20-07.39.48:497][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shakefinish" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/shakefinish_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.20-07.39.48:516][899]LogSavePackage: Save=17.38ms
+[2019.08.20-07.39.48:516][899]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/shakefinish_Auto188AE0ACC4758B0438B5C56942F6C3C73.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/shakefinish_Auto1.uasset'
+[2019.08.20-07.39.48:517][899]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/shakefinish_Auto1.uasset
+[2019.08.20-07.39.48:518][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myfolder/animation/shakefinish] ([1] browsable assets)...
+[2019.08.20-07.39.48:531][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/myfolder/animation/shakefinish.shakefinish]
+[2019.08.20-07.39.48:531][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/myfolder/animation/shakefinish]
+[2019.08.20-07.39.48:552][899]LogSavePackage: Save=18.31ms
+[2019.08.20-07.39.48:552][899]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/shakefinish_Auto1E5638DD54BB97573E2783C8371F1ED5B.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/myfolder/animation/shakefinish_Auto1.uasset'
+[2019.08.20-07.39.48:557][899]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/myfolder/animation/shakefinish_Auto1.uasset
+[2019.08.20-07.39.48:557][899]LogFileHelpers: Auto-saving content packages took 0.081
+[2019.08.20-07.42.28:526][818]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da37a8, Size=4, Default__SKEL_enemy_C Function /Game/enemy/enemy.SKEL_enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.42.38:424][402]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da37a8, Size=4
+[2019.08.20-07.42.38:424][402]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01180c1c0, Size=4, Default__SKEL_enemy_C Function /Engine/Transient.REINST_SKEL_enemy_C_83:ExecuteUbergraph_enemy
+[2019.08.20-07.42.38:429][402]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01180e2b8, Size=4, Default__SKEL_enemy_C Function /Game/enemy/enemy.SKEL_enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.42.40:707][522]LogSlate: Took 0.004180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.20-07.42.42:309][616]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01180e2b8, Size=4
+[2019.08.20-07.42.42:309][616]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da0150, Size=4, Default__SKEL_enemy_C Function /Engine/Transient.REINST_SKEL_enemy_C_85:ExecuteUbergraph_enemy
+[2019.08.20-07.42.42:313][616]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da23a0, Size=4, Default__SKEL_enemy_C Function /Game/enemy/enemy.SKEL_enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.43.53:340][975]BlueprintLog: New page: Compile enemy
+[2019.08.20-07.43.53:360][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da23a0, Size=4
+[2019.08.20-07.43.53:361][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a014119680, Size=4, Default__SKEL_enemy_C Function /Engine/Transient.REINST_SKEL_enemy_C_88:ExecuteUbergraph_enemy
+[2019.08.20-07.43.53:388][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fc53b42c0, Size=224
+[2019.08.20-07.43.53:388][975]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fde92e5c0, Size=224, enemy_C_23 Function /Engine/Transient.REINST_enemy_C_92:ExecuteUbergraph_enemy
+[2019.08.20-07.43.53:394][975]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fcf35e840, Size=272, Default__enemy_C Function /Game/enemy/enemy.enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.43.53:768][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a014119680, Size=4
+[2019.08.20-07.43.54:756][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enemy" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset" SILENT=true
+[2019.08.20-07.43.54:830][  0]LogSavePackage: Save=59.91ms
+[2019.08.20-07.43.54:830][  0]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enemy02CE03E440A3D390DC5CDBB4A4CDEE97.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset'
+[2019.08.20-07.43.54:833][  0]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset
+[2019.08.20-07.43.57:479][151]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da23f0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.03:000][466]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da23f0, Size=4
+[2019.08.20-07.44.03:000][466]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d561e8, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_34:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.03:008][466]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d560d8, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.05:752][619]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d560d8, Size=4
+[2019.08.20-07.44.05:752][619]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d560d8, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_35:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.05:759][619]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d56908, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.08:203][756]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.44.08:215][756]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d56908, Size=4
+[2019.08.20-07.44.08:215][756]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d56908, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_36:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.08:226][756]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a011415e68, Size=40
+[2019.08.20-07.44.08:226][756]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a014cd2bb0, Size=40, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_37:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.08:234][756]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a014cd31f0, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.08:349][756]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d56908, Size=4
+[2019.08.20-07.44.08:349][756]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d560d8, Size=4
+[2019.08.20-07.44.08:349][756]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d561e8, Size=4
+[2019.08.20-07.44.37:822][470]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.44.37:845][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a014cd31f0, Size=40
+[2019.08.20-07.44.37:845][470]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a005d46188, Size=40, enimblue_C_46 Function /Engine/Transient.REINST_enimblue_C_39:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.37:852][470]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a005d46688, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.44.37:965][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a014cd2bb0, Size=40
+[2019.08.20-07.44.59:913][461]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0079d9588, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.05:515][779]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0079d9588, Size=4
+[2019.08.20-07.45.05:515][779]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d542c0, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_41:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.05:522][779]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d55ff0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.08:585][951]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d55ff0, Size=4
+[2019.08.20-07.45.08:585][951]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0071067a0, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_42:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.08:592][951]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a007106cc0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.34:426][469]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a007106cc0, Size=4
+[2019.08.20-07.45.34:426][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da0538, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_43:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.34:434][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da10f0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.38:138][681]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da10f0, Size=4
+[2019.08.20-07.45.38:138][681]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a00667a620, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_44:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.38:145][681]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a00667a5d0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.59:592][ 62]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a00667a5d0, Size=4
+[2019.08.20-07.45.59:592][ 62]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d54bf8, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_45:ExecuteUbergraph_enimblue
+[2019.08.20-07.45.59:599][ 62]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d55468, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.47.06:400][953]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.47.06:415][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d55468, Size=4
+[2019.08.20-07.47.06:415][953]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a004d55468, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_46:ExecuteUbergraph_enimblue
+[2019.08.20-07.47.06:427][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a005d46688, Size=40
+[2019.08.20-07.47.06:427][953]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0065fa5e8, Size=40, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_47:ExecuteUbergraph_enimblue
+[2019.08.20-07.47.06:869][953]LogBlueprint: Warning: [Compiler enimblue] Transform (Modify) Bone  - You must pick a bone to modify
+[2019.08.20-07.47.06:869][953]LogBlueprint: Warning: [Compiler enimblue] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2019.08.20-07.47.06:874][953]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0065f80e0, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.47.07:006][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a005d46188, Size=40
+[2019.08.20-07.47.07:006][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a00667a620, Size=4
+[2019.08.20-07.47.07:006][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d542c0, Size=4
+[2019.08.20-07.47.07:006][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da0538, Size=4
+[2019.08.20-07.47.07:007][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0071067a0, Size=4
+[2019.08.20-07.47.07:007][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d54bf8, Size=4
+[2019.08.20-07.47.07:007][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a004d55468, Size=4
+[2019.08.20-07.47.07:026][953]LogBlueprint: Warning: [Compiler enimblue] [1511.65] Compile of enimblue successful, but with 2 Warning(s) [in 625 ms] (/Game/enemy/enimblue.enimblue)
+[2019.08.20-07.47.31:658][672]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.47.31:682][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0065f80e0, Size=40
+[2019.08.20-07.47.31:682][672]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01955b4c0, Size=40, enimblue_C_55 Function /Engine/Transient.REINST_enimblue_C_49:ExecuteUbergraph_enimblue
+[2019.08.20-07.47.31:689][672]LogBlueprint: Warning: [Compiler enimblue] Transform (Modify) Bone  - You must pick a bone to modify
+[2019.08.20-07.47.31:689][672]LogBlueprint: Warning: [Compiler enimblue] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2019.08.20-07.47.31:692][672]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a019559508, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.47.31:805][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0065fa5e8, Size=40
+[2019.08.20-07.47.31:820][672]LogBlueprint: Warning: [Compiler enimblue] [1536.45] Compile of enimblue successful, but with 2 Warning(s) [in 161 ms] (/Game/enemy/enimblue.enimblue)
+[2019.08.20-07.50.15:319][536]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01955b4c0, Size=40
+[2019.08.20-07.50.15:580][536]LogSavePackage: Save=242.36ms
+[2019.08.20-07.50.15:580][536]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/MotionControllerMap_Auto274F7A343487889085F93CBA6C96FEC9F.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2019.08.20-07.50.15:582][536]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap
+[2019.08.20-07.50.15:585][536]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.297
+[2019.08.20-07.50.15:585][536]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.297
+[2019.08.20-07.50.15:594][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/enemy/enimblue] ([1] browsable assets)...
+[2019.08.20-07.50.15:620][536]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/enemy/enimblue.enimblue]
+[2019.08.20-07.50.15:620][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy/enimblue]
+[2019.08.20-07.50.15:620][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enimblue" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/enemy/enimblue_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.20-07.50.15:714][536]LogSavePackage: Save=76.96ms
+[2019.08.20-07.50.15:714][536]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enimblue_Auto26A2CAB7042336036C721D0AC7753B5FB.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/enemy/enimblue_Auto2.uasset'
+[2019.08.20-07.50.15:716][536]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/Autosaves/Game/enemy/enimblue_Auto2.uasset
+[2019.08.20-07.50.15:716][536]LogFileHelpers: Auto-saving content packages took 0.122
+[2019.08.20-07.50.34:161][688]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.50.34:188][688]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a019559508, Size=40
+[2019.08.20-07.50.34:188][688]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0065f9440, Size=40, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_51:ExecuteUbergraph_enimblue
+[2019.08.20-07.50.34:199][688]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0065fb088, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.50.35:106][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enimblue" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset" SILENT=true
+[2019.08.20-07.50.35:190][729]LogSavePackage: Save=75.07ms
+[2019.08.20-07.50.35:190][729]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enimblueAEE218234081EF02270C33BEC136B736.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset'
+[2019.08.20-07.50.35:200][729]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset
+[2019.08.20-07.50.36:160][784]LogTemp: Repeating last play command: VR Preview
+[2019.08.20-07.50.36:192][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.50.36:192][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-07.50.36:192][784]PIE: New page: PIE session: MotionControllerMap (Aug 21, 2019, 1:50:36 AM)
+[2019.08.20-07.50.36:192][784]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-07.50.36:202][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009394s)
+[2019.08.20-07.50.36:202][784]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-07.50.36:203][784]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2019.08.20-07.50.36:203][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010221s)
+[2019.08.20-07.50.36:224][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0065f9440, Size=40
+[2019.08.20-07.50.36:246][784]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-07.50.36:258][784]LogInit: FAudioDevice initialized.
+[2019.08.20-07.50.36:369][784]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-07.50.36:369][784]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-07.50.36:374][784]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-16.50.36
+[2019.08.20-07.50.36:375][784]LogWorld: Bringing up level for play took: 0.005681
+[2019.08.20-07.50.36:394][784]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.758
+[2019.08.20-07.50.36:394][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.50.47:328][757]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.50.47:328][757]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.50.47:328][757]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.50.47:328][757]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.50.47:328][757]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.50.49:172][922]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.50.51:729][113]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.50.53:203][245]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.50.55:091][414]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.50.55:605][460]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.50.57:548][634]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.50.57:549][634]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.50.57:549][634]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.50.57:549][634]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.50.57:549][634]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.50.58:241][696]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.50.58:241][696]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.50.58:241][696]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.50.58:732][740]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.50.58:732][740]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.50.58:732][740]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.51.00:385][888]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.51.00:385][888]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.51.00:385][888]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.51.00:385][888]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.51.00:385][888]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.51.01:771][ 12]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.51.04:921][294]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.51.06:137][403]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.51.06:137][403]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.51.06:137][403]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.51.06:137][403]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.51.06:137][403]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.51.07:544][529]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.51.07:544][529]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.51.07:544][529]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.51.07:544][529]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.51.07:544][529]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.51.09:210][678]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.51.16:706][349]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.51.17:421][413]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.51.18:000][465]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.51.19:543][603]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.51.19:543][603]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.51.19:543][603]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.51.23:185][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.51.23:353][929]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-07.51.23:391][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.51.43:290][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01180f4a0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.51.43:297][106]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01180f4a0, Size=4
+[2019.08.20-07.51.43:297][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01180f4a0, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_53:ExecuteUbergraph_enimblue
+[2019.08.20-07.51.43:305][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01180ec40, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.52.24:186][529]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.52.24:200][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01180ec40, Size=4
+[2019.08.20-07.52.24:200][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a006678c58, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_54:ExecuteUbergraph_enimblue
+[2019.08.20-07.52.24:212][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0065fb088, Size=40
+[2019.08.20-07.52.24:212][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0065fb088, Size=40, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_55:ExecuteUbergraph_enimblue
+[2019.08.20-07.52.24:221][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0065f93f0, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.52.24:333][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a006678c58, Size=4
+[2019.08.20-07.52.24:333][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01180f4a0, Size=4
+[2019.08.20-07.52.25:065][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enimblue" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset" SILENT=true
+[2019.08.20-07.52.25:152][568]LogSavePackage: Save=77.83ms
+[2019.08.20-07.52.25:152][568]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enimblueAAC1FAE842CF4537AF0F259AF2B5A8EA.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset'
+[2019.08.20-07.52.25:155][568]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset
+[2019.08.20-07.52.26:231][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enimblue" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset" SILENT=true
+[2019.08.20-07.52.26:307][629]LogSavePackage: Save=67.31ms
+[2019.08.20-07.52.26:307][629]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enimblueD9AF5DCD47CAA883AF551E83A9149663.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset'
+[2019.08.20-07.52.26:308][629]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset
+[2019.08.20-07.52.52:288][ 90]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0079db280, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.53.02:564][673]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0079db280, Size=4
+[2019.08.20-07.53.02:564][673]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0084bf190, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_57:ExecuteUbergraph_enimblue
+[2019.08.20-07.53.02:570][673]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0084bf080, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.53.04:980][813]LogEditorTransaction: Undo Paste clipboard contents
+[2019.08.20-07.53.04:981][813]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0084bf080, Size=4
+[2019.08.20-07.53.04:981][813]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da2218, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_58:ExecuteUbergraph_enimblue
+[2019.08.20-07.53.04:988][813]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a027da3440, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.53.05:129][813]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2019.08.20-07.53.07:740][949]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da3440, Size=4
+[2019.08.20-07.53.07:740][949]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01180e4c8, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_59:ExecuteUbergraph_enimblue
+[2019.08.20-07.53.07:749][949]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01180d368, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.54.09:136][496]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.54.09:152][496]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01180d368, Size=4
+[2019.08.20-07.54.09:152][496]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a008c2c618, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_60:ExecuteUbergraph_enimblue
+[2019.08.20-07.54.09:165][496]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0065f93f0, Size=40
+[2019.08.20-07.54.09:165][496]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a005d44ea0, Size=40, enimblue_C_68 Function /Engine/Transient.REINST_enimblue_C_61:ExecuteUbergraph_enimblue
+[2019.08.20-07.54.09:174][496]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a005d469d0, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.54.09:292][496]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a008c2c618, Size=4
+[2019.08.20-07.54.09:293][496]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01180e4c8, Size=4
+[2019.08.20-07.54.09:293][496]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a027da2218, Size=4
+[2019.08.20-07.54.09:293][496]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0065fb088, Size=40
+[2019.08.20-07.54.09:293][496]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0084bf190, Size=4
+[2019.08.20-07.54.14:041][776]LogTemp: Repeating last play command: VR Preview
+[2019.08.20-07.54.14:060][776]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.54.14:060][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-07.54.14:060][776]PIE: New page: PIE session: MotionControllerMap (Aug 21, 2019, 1:54:14 AM)
+[2019.08.20-07.54.14:060][776]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-07.54.14:069][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009079s)
+[2019.08.20-07.54.14:070][776]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-07.54.14:070][776]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2019.08.20-07.54.14:070][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009989s)
+[2019.08.20-07.54.14:092][776]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a005d44ea0, Size=40
+[2019.08.20-07.54.14:113][776]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-07.54.14:125][776]LogInit: FAudioDevice initialized.
+[2019.08.20-07.54.14:233][776]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-07.54.14:234][776]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-07.54.14:239][776]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-16.54.14
+[2019.08.20-07.54.14:240][776]LogWorld: Bringing up level for play took: 0.005664
+[2019.08.20-07.54.14:257][776]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.105
+[2019.08.20-07.54.14:257][776]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.54.30:759][248]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.32:670][419]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.33:596][502]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.34:088][546]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.34:579][590]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.34:925][621]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.35:249][650]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.35:540][676]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.35:786][698]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.35:986][716]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.36:194][734]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.37:328][835]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.54.42:232][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.54.42:396][274]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-07.54.42:434][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.54.55:736][ 55]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.54.55:762][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a005d469d0, Size=40
+[2019.08.20-07.54.55:762][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0092ae8e0, Size=40, Default__enimblue_C Function /Engine/Transient.REINST_enimblue_C_63:ExecuteUbergraph_enimblue
+[2019.08.20-07.54.55:769][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0092acc20, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.56.47:848][677]BlueprintLog: New page: Compile enimblue
+[2019.08.20-07.56.47:874][677]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0092acc20, Size=40
+[2019.08.20-07.56.47:874][677]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a005d46958, Size=40, enimblue_C_77 Function /Engine/Transient.REINST_enimblue_C_65:ExecuteUbergraph_enimblue
+[2019.08.20-07.56.47:883][677]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a005d44810, Size=40, Default__enimblue_C Function /Game/enemy/enimblue.enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.56.48:000][677]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0092ae8e0, Size=40
+[2019.08.20-07.56.48:476][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enimblue" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset" SILENT=true
+[2019.08.20-07.56.48:566][698]LogSavePackage: Save=76.17ms
+[2019.08.20-07.56.48:566][698]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enimblue9FD35D6B4096F37434ADA29748159A26.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset'
+[2019.08.20-07.56.48:570][698]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enimblue.uasset
+[2019.08.20-07.56.49:322][740]LogTemp: Repeating last play command: VR Preview
+[2019.08.20-07.56.49:341][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.56.49:341][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-07.56.49:342][740]PIE: New page: PIE session: MotionControllerMap (Aug 21, 2019, 1:56:49 AM)
+[2019.08.20-07.56.49:342][740]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.08.20-07.56.49:352][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009792s)
+[2019.08.20-07.56.49:352][740]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.08.20-07.56.49:352][740]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2019.08.20-07.56.49:352][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010546s)
+[2019.08.20-07.56.49:375][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a005d46958, Size=40
+[2019.08.20-07.56.49:396][740]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.20-07.56.49:407][740]LogInit: FAudioDevice initialized.
+[2019.08.20-07.56.49:510][740]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.20-07.56.49:511][740]LogLoad: Game class is 'GameModeBase'
+[2019.08.20-07.56.49:516][740]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.08.20-16.56.49
+[2019.08.20-07.56.49:517][740]LogWorld: Bringing up level for play took: 0.005423
+[2019.08.20-07.56.49:542][740]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.389
+[2019.08.20-07.56.49:542][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.57.01:172][776]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.57.01:173][776]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.57.01:173][776]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.57.03:797][ 11]LogBlueprintUserMessages: [VRPawn_507] MotionControllerPawn
+[2019.08.20-07.57.03:797][ 11]LogBlueprintUserMessages: [BP_MotionController_C_1] in the Shakinggggg
+[2019.08.20-07.57.03:797][ 11]LogBlueprintUserMessages: [BP_MotionController_C_0] in the Shakinggggg
+[2019.08.20-07.57.03:798][ 11]LogBlueprintUserMessages: [BP_MotionController_C_0] after shakinggggg
+[2019.08.20-07.57.03:798][ 11]LogBlueprintUserMessages: [enemy_158] enmy funccccccccc
+[2019.08.20-07.57.06:501][253]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.57.08:657][446]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.57.24:540][868]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.57.27:232][109]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.57.28:048][182]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.57.29:265][291]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.57.33:610][680]LogBlueprintUserMessages: [enemy_158] picking up person
+[2019.08.20-07.57.58:095][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.57.58:262][871]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.20-07.57.58:310][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.08.20-07.58.42:881][523]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0079db858, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.58.45:715][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0079db858, Size=4
+[2019.08.20-07.58.45:715][687]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0079db858, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_67:ExecuteUbergraph_enimblue
+[2019.08.20-07.58.45:724][687]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01918d538, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.58.53:156][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01918d538, Size=4
+[2019.08.20-07.58.53:156][116]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0079d9550, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_68:ExecuteUbergraph_enimblue
+[2019.08.20-07.58.53:164][116]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0079db5b0, Size=4, Default__SKEL_enimblue_C Function /Game/enemy/enimblue.SKEL_enimblue_C:ExecuteUbergraph_enimblue
+[2019.08.20-07.58.53:165][116]LogClass: Warning: Type mismatch in mc of SKEL_enimblue_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.08.20-07.59.41:550][939]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a00721ea98, Size=4, Default__SKEL_enemy_C Function /Game/enemy/enemy.SKEL_enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.59.47:653][292]BlueprintLog: New page: Compile enemy
+[2019.08.20-07.59.47:672][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0079db5b0, Size=4
+[2019.08.20-07.59.47:672][292]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a00721ef60, Size=4, Default__SKEL_enimblue_C Function /Engine/Transient.REINST_SKEL_enimblue_C_69:ExecuteUbergraph_enimblue
+[2019.08.20-07.59.47:672][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a00721ea98, Size=4
+[2019.08.20-07.59.47:672][292]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a00721ea98, Size=4, Default__SKEL_enemy_C Function /Engine/Transient.REINST_SKEL_enemy_C_137:ExecuteUbergraph_enemy
+[2019.08.20-07.59.47:697][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fcf35e840, Size=272
+[2019.08.20-07.59.47:697][292]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a00944b100, Size=272, enemy_C_31 Function /Engine/Transient.REINST_enemy_C_141:ExecuteUbergraph_enemy
+[2019.08.20-07.59.47:702][292]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a03b9e0540, Size=272, Default__enemy_C Function /Game/enemy/enemy.enemy_C:ExecuteUbergraph_enemy
+[2019.08.20-07.59.48:088][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a00721ea98, Size=4
+[2019.08.20-07.59.48:088][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a00721ef60, Size=4
+[2019.08.20-07.59.48:089][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0079d9550, Size=4
+[2019.08.20-07.59.48:089][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0079db858, Size=4
+[2019.08.20-07.59.48:587][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/enemy" FILE="C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset" SILENT=true
+[2019.08.20-07.59.48:672][309]LogSavePackage: Save=70.08ms
+[2019.08.20-07.59.48:672][309]LogSavePackage: Moving 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Saved/enemyF36E65974549729B9187289A66DB2E9E.tmp' to 'C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset'
+[2019.08.20-07.59.48:676][309]LogSavePackage: Display: Finished SavePackage C:/Users/vclab/Documents/Unreal Projects/new/MyProject3/Content/enemy/enemy.uasset
+[2019.08.20-07.59.51:668][483]LogUObjectArray: Warning: Invalid object index -572662307
+[2019.08.20-07.59.52:145][483]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.477 s
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: 
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: Stack: 
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000ED18B706 UE4Editor-Core.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000ECEEAE3A UE4Editor-Core.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000ECEFECD6 UE4Editor-Core.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E61B3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E7EBB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E2D3C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E2BC77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E2BCAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E2D06E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E95E6057 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E95EBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E981C253 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E9640475 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E9618360 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000E960B197 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000093AE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000093A1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000093B052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x000000000939D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x000000005F5C6D41 USER32.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x000000005F5C6713 USER32.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x00000000093B1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x0000000081005475 UE4Editor.exe!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x0000000081016BD0 UE4Editor.exe!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x0000000081016C4A UE4Editor.exe!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x0000000081024177 UE4Editor.exe!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x0000000081025B87 UE4Editor.exe!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x0000000060EE4034 KERNEL32.DLL!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: [Callstack] 0x0000000061603691 ntdll.dll!UnknownFunction []
+[2019.08.20-07.59.52:145][483]LogOutputDevice: Error: 
+[2019.08.20-07.59.52:147][483]LogStats:                SubmitErrorReport -  0.000 s
